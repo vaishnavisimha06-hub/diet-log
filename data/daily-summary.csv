@@ -1,2 +1,2 @@
 date,calories_kcal,protein_g,carbs_g,fat_g,fibre_g,sugar_g,notes
-2026-10-12,312,9.8,52,6.2,7,8,Seeded from existing log; dashboard recalculates from food-log.csv
+2026-10-12,774,30.2,99.7,28.7,17.9,14.5,Recalculated from all food-log entries; estimates; dashboard recalculates from food-log.csv
