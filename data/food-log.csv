@@ -2,3 +2,7 @@ date,time_ist,meal,description,quantity,calories_kcal,protein_g,carbs_g,fat_g,fi
 2026-10-12,09:45,Breakfast,Cooked poha,120 g,180,3.5,32,4,2.5,2,Estimated; cooked weight
 2026-10-12,09:45,Breakfast,Boiled black chana,65 g,107,5.3,17,1.7,4.5,2,Estimated; cooked weight
 2026-10-12,10:15,Drink,Tea with mostly water splash of milk and 1 tsp sugar,1/2 cup,25,1,3,0.5,0,4,Estimated
+2026-10-12,14:45,Lunch,Methi paratha (very little oil),1.25 pieces (estimated 90 g),225,5.4,34.2,7.2,4.5,1.8,Estimated; assumed 90 g total and minimal oil
+2026-10-12,14:45,Lunch,Coconut chutney,30 g (estimated),81,1.2,2.4,7.5,1.5,0.9,Estimated; assumed about 2 tbsp
+2026-10-12,14:45,Lunch,Tempeh,70 g,135,13.3,6.3,7.7,3.5,1.4,Estimated generic tempeh values
+2026-10-12,14:45,Lunch,Raw carrots (cut),50 g,21,0.5,4.8,0.1,1.4,2.4,Estimated
